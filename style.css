@@ -35,6 +35,10 @@ body {
   background:#DCDCDC;
   box-shadow: 0px 0px 5px 0px #8B8989;
 }
+span {
+  display: inline-block;
+  width: 80px;
+}
 .mile {
   font-size: 45px;
 }
